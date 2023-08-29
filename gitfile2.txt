@@ -8,3 +8,4 @@ cuba
 caribean
 paris
 greece
+Swiss
